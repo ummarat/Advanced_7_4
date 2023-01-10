@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addresses_list>
+    <address>
+        <city>Kyiv</city>
+        <street>Khreshchatyk</street>
+        <house>19</house>
+    </address>
+    <address>
+        <city>Lviv</city>
+        <street>Sichovykh Striltsiv</street>
+        <house>5</house>
+    </address>
+</addresses_list>
